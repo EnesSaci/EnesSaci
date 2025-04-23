@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Adın]!  
+# 👋 Merhaba, ben Enes!  
 Yeni başlayan bir yazılımcı olarak kendimi geliştiriyorum 🚀
 
 ## 💻 Öğrendiğim Teknolojiler
