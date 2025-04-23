@@ -1,19 +1,20 @@
-# 👋 Merhaba, ben Enes!  
-Yeni başlayan bir yazılımcı olarak kendimi geliştiriyorum 🚀
+# 👋 Hi there, I'm Enes!  
+I'm a beginner developer, continuously working on improving my skills 🚀
 
-## 💻 Öğrendiğim Teknolojiler
-- HTML | CSS | JavaScript
-- Git & GitHub
-- VSCode
+## 💻 Technologies I'm Learning
+- HTML | CSS | JavaScript  
+- Git & GitHub  
+- VSCode  
 
-## 🛠️ Üzerinde Çalıştığım Şeyler
-- Küçük uygulamalarla temel becerilerimi geliştiriyorum.
-- GitHub profilimi düzenli olarak güncelliyorum.
-- Yakında ilk full-stack uygulamamı paylaşacağım!
+## 🛠️ What I'm Working On
+- Building small projects to strengthen my fundamentals  
+- Updating my GitHub profile regularly  
+- Planning to share my first full-stack project soon!
 
-## 📫 Bana ulaş:
-- [enessaci07@gmail.com]
+## 📫 How to reach me
+-  
+- [enessaci07@gmail.com]  
 
 ---
 
-> Öğrenmeye açık, araştırmayı seven, sürekli gelişen bir yazılımcı adayıyım.
+> I’m an open-minded, curious, and constantly evolving developer in the making.
