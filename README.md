@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba, ben [Adın]!  
+Yeni başlayan bir yazılımcı olarak kendimi geliştiriyorum 🚀
 
-<!--
-**EnesSaci/EnesSaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Öğrendiğim Teknolojiler
+- HTML | CSS | JavaScript
+- Git & GitHub
+- VSCode
 
-Here are some ideas to get you started:
+## 🛠️ Üzerinde Çalıştığım Şeyler
+- Küçük uygulamalarla temel becerilerimi geliştiriyorum.
+- GitHub profilimi düzenli olarak güncelliyorum.
+- Yakında ilk full-stack uygulamamı paylaşacağım!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Bana ulaş:
+- [enessaci07@gmail.com]
+
+---
+
+> Öğrenmeye açık, araştırmayı seven, sürekli gelişen bir yazılımcı adayıyım.
